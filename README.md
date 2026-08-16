@@ -42,7 +42,11 @@ I am a software engineer focused on building scalable web applications, automati
 </p>
 
 **Low-Code, No-Code & Automation:**
-* **n8n** | **Bubble** | **FlutterFlow**
+<p align="left">
+  <img src="https://devicons.io/devicons/icons/n8n-icon.svg" width="40" height="40" title="n8n" />
+  <img src="https://devicons.io/devicons/icons/bubble-icon.svg" width="40" height="40" title="bubble" style="background-color: white;" />
+  <img src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg" width="40" height="40" title="flutterflow" />
+</p>
 
 ---
 
