@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQET3MJ6gYuPkQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701722418521?e=1787184000&v=beta&t=5vqoSUnFNdPE8wRk6rH9A3OgB5WDBqN0VJgF0UxPYfk" width="100%" height="400" />
 
 # Olá! Welcome to my GitHub! 👋
-### I'm Valdecir Waldhelm — Full-Stack Developer & Automation Specialist from Brazil 🇧🇷
+### I'm Valdecir Waldhelm — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
 
 I am a software engineer focused on building scalable web applications, automating complex workflows, and developing MicroSaaS products. I blend traditional full-stack development with modern low-code/no-code architectures to deliver fast, efficient, and robust solutions.
 
