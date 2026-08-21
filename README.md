@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQET3MJ6gYuPkQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701722418521?e=1787184000&v=beta&t=5vqoSUnFNdPE8wRk6rH9A3OgB5WDBqN0VJgF0UxPYfk" width="100%" height="400" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQET3MJ6gYuPkQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701722418521?e=1788998400&v=beta&t=3XNaMLc-HRgqeuUEiAyaPPRbn-0T1dwFL_UPgPgGoKo" width="100%" height="400" />
 
 # Olá! Welcome to my GitHub! 👋
 ### I'm Valdecir Waldhelm — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
@@ -28,7 +28,7 @@ I am a software engineer focused on building scalable web applications, automati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
 </p>
