@@ -1,9 +1,12 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQET3MJ6gYuPkQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701722418521?e=1788998400&v=beta&t=3XNaMLc-HRgqeuUEiAyaPPRbn-0T1dwFL_UPgPgGoKo" width="100%" height="400" />
 
 # Olá! Welcome to my GitHub! 👋
-### I'm Valdecir Waldhelm — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
+### I'm Valdecir Waldhelm Morgado — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
 
-I am a software engineer focused on building scalable web applications, automating complex workflows, and developing MicroSaaS products. I blend traditional full-stack development with modern low-code/no-code architectures to deliver fast, efficient, and robust solutions.
+I am a software developer focused on building scalable web applications, automating complex workflows, and developing robust SaaS products.
+
+### 🛤️ My Journey
+I transitioned into the tech industry at 39 in 2020, starting with a degree in Systems Analysis and Development. I've been actively working in the market since 2021, building a solid 5-year foundation as a Web Developer specializing in PHP, WordPress, infrastructure, and API integrations. Now, at 45 years old in 2026, I am pursuing my Bachelor's degree in Software Engineering to deepen my architectural knowledge, merging practical market experience with computer science fundamentals.
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valdecirwm&layout=compact&theme=dracula" height="165" />
@@ -12,12 +15,12 @@ I am a software engineer focused on building scalable web applications, automati
 
 ---
 
-### 🚀 What I'm currently working on
+### 🚀 What I'm currently working on (In Production)
 
-* 💻 **MicroSaaS Development:** Building and scaling **Tube-Launch**, an application designed to automate metadata generation for online content creators.
-* 🧩 **Workflow Automation:** Expanding **Biblioteca 4K**, an extensive repository of automation workflows utilizing n8n and advanced integrations.
+* 🕷️ **ScrapeXe v2.1:** A Dynamic Scraping API built with Node.js[cite: 1], featuring JWT authentication and Stripe billing integration. Currently deployed and running in production on Render.
+* 🎬 **Clickbaitube:** An AI-powered agent specialized in creating thumbnails for YouTubers. Developed with a robust architecture using WordPress and PHP, live at clickbaitube.com.
+* 🧩 **Biblioteca 4K:** A highly curated technical repository featuring 50 exclusive n8n automation workflows, rigorously tested and custom-built by me for advanced integrations.
 * 🌐 **Infrastructure:** Managing secure local server configurations and URL routing using **Cloudflare Tunnels**.
-* 🎓 **Continuous Learning:** Always diving deeper into software engineering principles, API architectures, and scalable database management.
 
 ---
 
@@ -28,7 +31,6 @@ I am a software engineer focused on building scalable web applications, automati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
 </p>
@@ -52,7 +54,7 @@ I am a software engineer focused on building scalable web applications, automati
 
 ### 🎯 Beyond the Code
 
-I believe that discipline and creativity go hand in hand. My day usually starts at 4:30 AM with physical training, ensuring I have the focus needed to tackle complex architectural challenges.
+I believe that discipline and creativity go hand in hand.[cite: 2] My day usually starts at 4:30 AM with physical training, ensuring I have the focus needed to tackle complex architectural challenges.
 
 When I'm not coding, I'm deeply involved in digital content creation and audio-visual projects:
 * 🏎️ Running **Nação Nitro**, a dedicated gaming channel focused on the racing and automotive universe.
@@ -63,6 +65,6 @@ When I'm not coding, I'm deeply involved in digital content creation and audio-v
 
 ### 📬 Let's Connect!
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValdecirWaldhelm) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdecir-waldhelm-morgado/) 
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValdecirWaldhelm)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdecir-waldhelm-morgado/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devfulldeco/)
