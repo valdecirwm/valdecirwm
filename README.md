@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEuNANyAYT3Zg/profile-displaybackgroundimage-shrink_200_800/B4DaBIOHYQI8AQ-/0/1787918055198?e=1789603200&v=beta&t=EwxEzJIyePmzZQD_xPF9uW-raJ8SPL4jP8CMrf8jhX4" width="100%" height="400" />
+<img src="https://vwmtecnologias.com.br/wp-content/uploads/2026/09/VWM.png" width="100%" height="400" />
 
 # Olá! Welcome to my GitHub! 👋
 ### I'm Valdecir Waldhelm Morgado — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
