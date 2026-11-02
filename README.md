@@ -1,4 +1,4 @@
-<img src="https://vwmtecnologias.com.br/wp-content/uploads/2026/09/VWM.png" width="100%" height="400" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEuNANyAYT3Zg/profile-displaybackgroundimage-shrink_350_1400/B4DaBIOHYQI8AU-/0/1787918055198?e=1795046400&v=beta&t=NhqfA_XVL6_v7qC1bsoxXkz35ylCGXsm9aBNhKmsWjg" width="100%" height="400" />
 
 # Olá! Welcome to my GitHub! 👋
 ### I'm Valdecir Waldhelm Morgado — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
@@ -6,7 +6,7 @@
 I am a software developer focused on building scalable web applications, automating complex workflows, and developing robust SaaS products.
 
 ### 🛤️ My Journey
-I transitioned into the tech industry at 39 in 2020, starting with a degree in Systems Analysis and Development. I've been actively working in the market since 2021, building a solid 5-year foundation as a Web Developer specializing in PHP, WordPress, infrastructure, and API integrations. Now, at 45 years old in 2026, I am pursuing my Bachelor's degree in Software Engineering to deepen my architectural knowledge, merging practical market experience with computer science fundamentals.
+I transitioned into the tech industry at 39 in 2020, starting with a technical degree in Systems Analysis and Development. I've been actively working in the market since 2021, building a solid foundation as a Web Developer specializing in PHP, WordPress, infrastructure, and API integrations. Now, at 45 years old in 2026, I am pursuing my Bachelor's degree in Software Engineering to deepen my architectural knowledge, merging practical market experience with computer science fundamentals, data structures, and algorithms.
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valdecirwm&layout=compact&theme=dracula" height="165" />
@@ -17,49 +17,59 @@ I transitioned into the tech industry at 39 in 2020, starting with a degree in S
 
 ### 🚀 What I'm currently working on (In Production)
 
-* 🕷️ **ScrapeXe v2.1:** A Dynamic Scraping API built with Node.js[cite: 1], featuring JWT authentication and Stripe billing integration. Currently deployed and running in production on Render.
-* 🎬 **Clickbaitube:** An AI-powered agent specialized in creating thumbnails for YouTubers. Developed with a robust architecture using WordPress and PHP, live at clickbaitube.com.
+* 🏥 **Clínica Médica Web App:** Refactoring and developing a specialized medical clinic web application in WordPress (PHP, JavaScript, AJAX) featuring exam scheduling workflows and secure doctor-patient authorization sharing integrated via REST API.
+* 🕷️ **ScrapeX v.1.0:** A Dynamic Scraping API built with Node.js, Express, Cheerio.
+* 🎬 **Clickbaitube:** An AI-powered micro-SaaS specialized in creating thumbnails for YouTubers, developed with a robust architecture using WordPress, PHP, and Stripe payments.
 * 🧩 **Biblioteca 4K:** A highly curated technical repository featuring 50 exclusive n8n automation workflows, rigorously tested and custom-built by me for advanced integrations.
-* 🌐 **Infrastructure:** Managing secure local server configurations and URL routing using **Cloudflare Tunnels**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Traditional Web:**
+**Languages, Logic & Foundations:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
 </p>
 
-**Databases, Infrastructure & CMS:**
+**Frameworks & Libraries:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React (Studying)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" />
+</p>
+
+**Databases, Infrastructure & Cloud:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux VPS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40" title="Cloudflare" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" />
 </p>
 
 **Low-Code, No-Code & Automation:**
 <p align="left">
   <img src="https://devicons.io/devicons/icons/n8n-icon.svg" width="40" height="40" title="n8n" />
-  <img src="https://devicons.io/devicons/icons/bubble-icon.svg" width="40" height="40" title="bubble" style="background-color: white;" />
-  <img src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg" width="40" height="40" title="flutterflow" />
+  <img src="https://devicons.io/devicons/icons/bubble-icon.svg" width="40" height="40" title="Bubble" style="background-color: white;" />
+  <img src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg" width="40" height="40" title="FlutterFlow" />
 </p>
 
 ---
 
 ### 🎯 Beyond the Code
 
-I believe that discipline and creativity go hand in hand.[cite: 2] My day usually starts at 4:30 AM with physical training, ensuring I have the focus needed to tackle complex architectural challenges.
+I believe that discipline and hands-on dedication go hand in hand with software engineering. My routine focuses heavily on constant technical evolution, combining rigorous academic study with practical execution.
 
-When I'm not coding, I'm deeply involved in digital content creation and audio-visual projects:
-* 🏎️ Running **Nação Nitro**, a dedicated gaming channel focused on the racing and automotive universe.
-* 🎧 Producing for **Elect Studio Night Vibes**, exploring audio projects and sound experiences.
-* 🚗 Exploring automotive design and custom hardware projects.
+When I'm not coding or studying algorithms:
+* 🏎️ Passionate about automotive mechanics, DIY vehicle upgrades, and driving my customized Fiat Palio.
+* 🏎️ Die-cast miniature collector with a growing collection of over 50 Hot Wheels vehicles.
+* 🎮 Gaming enthusiast focusing on racing simulators (Assetto Corsa, Forza Horizon, Need for Speed) and retrogaming.
 
 ---
 
