@@ -1,12 +1,12 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEuNANyAYT3Zg/profile-displaybackgroundimage-shrink_350_1400/B4DaBIOHYQI8AU-/0/1787918055198?e=1795046400&v=beta&t=NhqfA_XVL6_v7qC1bsoxXkz35ylCGXsm9aBNhKmsWjg" width="100%" height="400" />
 
-# Olá! Welcome to my GitHub! 👋
-### I'm Valdecir Waldhelm Morgado — Software Engineer | Full-Stack Developer | Automation Specialist from Brazil 🇧🇷
+# Olá! Bem-vindo ao meu GitHub! 👋
+### Sou Valdecir Waldhelm Morgado — Engenheiro de Software | Desenvolvedor Full-Stack | Especialista em Automação 🇧🇷
 
-I am a software developer focused on building scalable web applications, automating complex workflows, and developing robust SaaS products.
+Desenvolvedor de software focado na construção de aplicações web escaláveis, automação de fluxos de trabalho complexos e desenvolvimento de produtos SaaS robustos.
 
-### 🛤️ My Journey
-I transitioned into the tech industry at 39 in 2020, starting with a technical degree in Systems Analysis and Development. I've been actively working in the market since 2021, building a solid foundation as a Web Developer specializing in PHP, WordPress, infrastructure, and API integrations. Now, at 45 years old in 2026, I am pursuing my Bachelor's degree in Software Engineering to deepen my architectural knowledge, merging practical market experience with computer science fundamentals, data structures, and algorithms.
+### 🛤️ Minha Trajetória
+Migrei para a área de tecnologia aos 39 anos, em 2020, iniciando com um curso superior de tecnologia em Análise e Desenvolvimento de Sistemas. Atuo ativamente no mercado desde 2021, construindo uma base sólida como Desenvolvedor Web especializado em PHP, WordPress, infraestrutura e integrações de APIs. Atualmente, curso Bacharelado em Engenharia de Software para aprofundar meus conhecimentos arquiteturais, unindo a experiência prática de mercado aos fundamentos da ciência da computação, estruturas de dados e algoritmos.
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valdecirwm&layout=compact&theme=dracula" height="165" />
@@ -15,21 +15,21 @@ I transitioned into the tech industry at 39 in 2020, starting with a technical d
 
 ---
 
-### 🚀 What I'm currently working on (In Production)
+### 🚀 Projetos Atuais (Em Produção)
 
-* 🏥 **Clínica Médica Web App:** Refactoring and developing a specialized medical clinic web application in WordPress (PHP, JavaScript, AJAX) featuring exam scheduling workflows and secure doctor-patient authorization sharing integrated via REST API.
-* 🕷️ **ScrapeX v.1.0:** A Dynamic Scraping API built with Node.js, Express, Cheerio.
-* 🎬 **Clickbaitube:** An AI-powered micro-SaaS specialized in creating thumbnails for YouTubers, developed with a robust architecture using WordPress, PHP, and Stripe payments.
-* 🧩 **Biblioteca 4K:** A highly curated technical repository featuring 50 exclusive n8n automation workflows, rigorously tested and custom-built by me for advanced integrations.
+- 🏥 **Web App Clínica Médica:** Refatoração e desenvolvimento de uma aplicação web especializada para clínica médica em WordPress (PHP, JavaScript, AJAX), contando com fluxos de agendamento de exames e compartilhamento seguro de autorizações entre médico e paciente integrado via REST API.
+- 🕷️ **ScrapeX v.1.0:** API de raspagem dinâmica de dados (Dynamic Scraping API) construída com Node.js, Express e Cheerio.
+- 🎬 **Clickbaitube:** Micro-SaaS focado na criação de thumbnails com Inteligência Artificial para YouTubers, desenvolvido com uma arquitetura robusta utilizando WordPress, PHP e pagamentos via Stripe.
+- 🧩 **Biblioteca 4K:** Repositório técnico com 50 workflows exclusivos de automação no n8n, testados e construídos por mim para integrações avançadas.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Stacks & Ferramentas
 
-**Languages, Logic & Foundations:**
+**Linguagens, Lógica e Fundamentos:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
@@ -37,23 +37,23 @@ I transitioned into the tech industry at 39 in 2020, starting with a technical d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
 </p>
 
-**Frameworks & Libraries:**
+**Frameworks e Bibliotecas:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React (Studying)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" />
 </p>
 
-**Databases, Infrastructure & Cloud:**
+**Bancos de Dados, Infraestrutura e Nuvem:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux VPS" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux VPS" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40" title="Cloudflare" />
 </p>
 
-**Low-Code, No-Code & Automation:**
+**Low-Code, No-Code e Automação:**
 <p align="left">
   <img src="https://devicons.io/devicons/icons/n8n-icon.svg" width="40" height="40" title="n8n" />
   <img src="https://devicons.io/devicons/icons/bubble-icon.svg" width="40" height="40" title="Bubble" style="background-color: white;" />
@@ -62,18 +62,18 @@ I transitioned into the tech industry at 39 in 2020, starting with a technical d
 
 ---
 
-### 🎯 Beyond the Code
+### 🎯 Além do Código
 
-I believe that discipline and hands-on dedication go hand in hand with software engineering. My routine focuses heavily on constant technical evolution, combining rigorous academic study with practical execution.
+Acredito que disciplina e dedicação prática andam lado a lado com a engenharia de software. Minha rotina é focada em constante evolução técnica, combinando estudo acadêmico rigoroso com execução prática.
 
-When I'm not coding or studying algorithms:
-* 🏎️ Passionate about automotive mechanics, DIY vehicle upgrades, and driving my customized Fiat Palio.
-* 🏎️ Die-cast miniature collector with a growing collection of over 50 Hot Wheels vehicles.
-* 🎮 Gaming enthusiast focusing on racing simulators (Assetto Corsa, Forza Horizon, Need for Speed) and retrogaming.
+Quando não estou codando ou estudando algoritmos:
+- 🏎️ Apaixonado por mecânica automotiva, projetos DIY e por pilotar meu Fiat Palio customizado.
+- 🏎️ Colecionador de miniaturas die-cast, com uma coleção de mais de 50 modelos Hot Wheels.
+- 🎮 Entusiasta de games, com foco em simuladores de corrida (Assetto Corsa, Forza Horizon, Need for Speed) e retrogaming.
 
 ---
 
-### 📬 Let's Connect!
+### 📬 Vamos nos conectar!
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValdecirWaldhelm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdecir-waldhelm-morgado/)
